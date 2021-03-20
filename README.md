@@ -1,4 +1,7 @@
-# Soctor Who Code of Conduct
+---
+title: "Soctor Who Code of Conduct"
+summary: "The Code of Conduct"
+---
 
 _Updated: 20th March, 2021_
 
