@@ -71,7 +71,7 @@ For all inquiries relating to the code of conduct, you should contact the Wellbe
 The latest contact details, can be found on both [the website](https://soctorwh.ooo/committee/) or in the [#rules](https://discord.com/channels/818208449996259378/818208861361012758) channel of our discord
 
 ## 10. License and attribution
-This Code of Conduct is adapted from [Hacksoc Nottingham's Code of Conduct](https://github.com/HackSocNotts/code-of-conduct) [as of 23rd November 2020](https://github.com/HackSocNotts/code-of-conduct/tree/a91f8ef59597cb3b062702f8b23935aec198f6ec) which is in turn based the Citizen Code of Conduct
+This Code of Conduct is adapted from [HackSoc Nottingham's Code of Conduct](https://github.com/HackSocNotts/code-of-conduct) [as of 23rd November 2020](https://github.com/HackSocNotts/code-of-conduct/tree/a91f8ef59597cb3b062702f8b23935aec198f6ec) which is in turn based the Citizen Code of Conduct
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
